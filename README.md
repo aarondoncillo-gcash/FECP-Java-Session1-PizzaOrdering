@@ -6,8 +6,12 @@
   ![Lab 6 add order output proof](https://github.com/aarondoncillo-gcash/FECP-Java-Session1-PizzaOrdering/blob/main/output%20screenshots/lab%206%20add%20output.png "Lab 6 add order output proof")
 ### Update Order
 
+![Lab 6 update empty order output proof](https://github.com/aarondoncillo-gcash/FECP-Java-Session1-PizzaOrdering/blob/main/output%20screenshots/lab%206%20output%20update%20empty.png "Lab 6 update empty order output proof")
+
   ![Lab 6 update order output proof](https://github.com/aarondoncillo-gcash/FECP-Java-Session1-PizzaOrdering/blob/main/output%20screenshots/lab%206%20update%20output.png "Lab 6 update order output proof")
 ### Remove Order
+
+![Lab 6 remove empty order output proof](https://github.com/aarondoncillo-gcash/FECP-Java-Session1-PizzaOrdering/blob/main/output%20screenshots/lab%206%20output%20remove%20empty.png "Lab 6 remove empty order output proof")
 
   ![Lab 6 remove order output proof](https://github.com/aarondoncillo-gcash/FECP-Java-Session1-PizzaOrdering/blob/main/output%20screenshots/lab%206%20remove%20output.png "Lab 6 remove order output proof")
 ### View Order
